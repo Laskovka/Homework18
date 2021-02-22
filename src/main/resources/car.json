@@ -1,0 +1,18 @@
+{
+ "brand": "Toyota",
+ "model": "Camry",
+ "colors": [
+   "Red",
+   "Blue"
+ ],
+ "maxSpeed": {
+   "unit": "km/h",
+   "value": 230
+ },
+ "engine": {
+   "volume": 3.5,
+   "rpm": 5400,
+   "compressionRatio": "11.8:1"
+ },
+ "seatingCapacity": 5
+}
